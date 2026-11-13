@@ -1,12 +1,17 @@
 # 🛡️ TRADEXUS Prop Guard Free (NinjaTrader 8 — Direct2D EOD Risk Engine)
 
-[![Platform](https://img.shields.io/badge/Platform-NinjaTrader_8.1+-00D4FF.svg)](https://tradexus.tech)
-[![Rendering](https://img.shields.io/badge/GPU-SharpDX_Direct2D-00F5A0.svg)](https://tradexus.tech)
+[![Platform](https://img.shields.io/badge/Platform-NinjaTrader_8.1+-00D4FF.svg)](https://tradexus.tech/?lang=en)
+[![Rendering](https://img.shields.io/badge/GPU-SharpDX_Direct2D-00F5A0.svg)](https://tradexus.tech/?lang=en)
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+
+> 🌐 **English:** **`TRADEXUS_Prop_Guard_Free`** is an open-source C# hardware-accelerated (**SharpDX Direct2D**, `< 1 ms` latency, zero repaint) intraday risk & position sizing HUD for **NinjaTrader 8**, engineered for **25K, 50K, 100K & 150K End-of-Day (EOD)** prop firm accounts (Apex, Tradeify, Topstep, MyFundedFutures, FundedNext).  
+> 👉 **[Download the Complete TRADEXUS Free Starter Pack (.ZIP Add-On + TRB_PRO Sim101 Strategy + TradingView Scripts) — English Portal](https://tradexus.tech/?lang=en#lead-magnet-section)**
+
+---
 
 **`TRADEXUS_Prop_Guard_Free`** es un motor visual de código abierto desarrollado en C# para **NinjaTrader 8**, acelerado por hardware vía **SharpDX Direct2D (`OnRender`, < 1 ms de latencia, cero repintado)**, diseñado específicamente para proteger cuentas de evaluación y fondeadas End-of-Day (EOD) de **25K, 50K, 100K y 150K** (Apex Trader Funding, Tradeify, Topstep, MyFundedFutures, FundedNext).
 
-👉 **[Descargar el TRADEXUS Free Starter Pack Completo (.ZIP listo para importar en NT8 + Estrategia TRB_PRO Demo + Scripts TradingView) en tradexus.tech](https://tradexus.tech/#lead-magnet-section)**
+👉 **[Descargar el TRADEXUS Free Starter Pack Completo (.ZIP listo para importar en NT8 + Estrategia TRB_PRO Demo + Scripts TradingView) — Portal Español](https://tradexus.tech/?lang=es#lead-magnet-section)**
 
 ---
 
@@ -57,7 +62,8 @@ Descarga **`TRADEXUS_Free_Starter_Pack.zip`** gratuitamente desde **[https://tra
 
 ---
 
-## 🔗 Ecosistema Cuantitativo TRADEXUS
+## 🔗 Ecosistema Cuantitativo TRADEXUS / Quantitative Ecosystem
 
-- 🌐 **Web Oficial & Catálogo Black Friday 2026 (Hasta 85% OFF):** [https://tradexus.tech](https://tradexus.tech)
+- 🌐 **Official Website & Black Friday 2026 Catalog (English — Up to 85% OFF):** [https://tradexus.tech/?lang=en](https://tradexus.tech/?lang=en)
+- 🌐 **Web Oficial & Catálogo Black Friday 2026 (Español — Hasta 85% OFF):** [https://tradexus.tech/?lang=es](https://tradexus.tech/?lang=es)
 - ✈️ **Canal Oficial de Telegram (Niveles GEX CME Pre-Market):** [https://t.me/tradexus_quant](https://t.me/tradexus_quant)
